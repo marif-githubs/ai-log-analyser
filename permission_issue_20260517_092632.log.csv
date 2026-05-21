@@ -1,0 +1,101 @@
+date,time,tag,component,description
+2026-05-16,14:26:50,ERROR,[FileSystem], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:27:02,ERROR,[AppServer], Access forbidden: insufficient privileges
+2026-05-16,14:27:04,ERROR,[FileSystem], Operation failed due to insufficient privileges
+2026-05-16,14:27:40,ERROR,[AppServer], Operation failed due to insufficient privileges
+2026-05-16,14:28:19,ERROR,[AppServer], Permission denied reading file /var/data/config.json
+2026-05-16,14:28:45,ERROR,[FileSystem], Permission denied reading file /var/data/config.json
+2026-05-16,14:28:50,ERROR,[AppServer], Operation failed due to insufficient privileges
+2026-05-16,14:29:33,DEBUG,[SecurityManager], Access granted to resource
+2026-05-16,14:29:46,INFO,[AppServer], User authenticated successfully
+2026-05-16,14:29:55,ERROR,[AppServer], Permission denied reading file /var/data/config.json
+2026-05-16,14:30:24,ERROR,[FileSystem], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:31:13,ERROR,[FileSystem], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:32:05,ERROR,[AppServer], Operation failed due to insufficient privileges
+2026-05-16,14:32:46,ERROR,[AppServer], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:33:39,ERROR,[AppServer], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:33:59,INFO,[AppServer], Access granted to resource
+2026-05-16,14:34:24,ERROR,[SecurityManager], Access forbidden: insufficient privileges
+2026-05-16,14:35:06,ERROR,[AppServer], Access forbidden: insufficient privileges
+2026-05-16,14:35:27,ERROR,[SecurityManager], Operation failed due to insufficient privileges
+2026-05-16,14:35:31,ERROR,[FileSystem], Permission denied reading file /var/data/config.json
+2026-05-16,14:35:54,INFO,[SecurityManager], User authenticated successfully
+2026-05-16,14:36:54,DEBUG,[AppServer], Access granted to resource
+2026-05-16,14:37:08,ERROR,[SecurityManager], Permission denied reading file /var/data/config.json
+2026-05-16,14:37:41,ERROR,[AppServer], Operation failed due to insufficient privileges
+2026-05-16,14:38:24,ERROR,[AppServer], Access forbidden: insufficient privileges
+2026-05-16,14:39:13,ERROR,[FileSystem], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:40:08,ERROR,[AppServer], Permission denied reading file /var/data/config.json
+2026-05-16,14:40:52,INFO,[AppServer], Access granted to resource
+2026-05-16,14:40:54,ERROR,[FileSystem], Access forbidden: insufficient privileges
+2026-05-16,14:41:06,ERROR,[SecurityManager], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:41:14,INFO,[AppServer], Access granted to resource
+2026-05-16,14:41:21,ERROR,[AppServer], Access forbidden: insufficient privileges
+2026-05-16,14:41:57,DEBUG,[AppServer], File permissions updated successfully
+2026-05-16,14:42:56,ERROR,[AppServer], Operation failed due to insufficient privileges
+2026-05-16,14:43:55,DEBUG,[FileSystem], File permissions updated successfully
+2026-05-16,14:44:31,ERROR,[FileSystem], Permission denied reading file /var/data/config.json
+2026-05-16,14:45:31,ERROR,[FileSystem], Operation failed due to insufficient privileges
+2026-05-16,14:45:55,ERROR,[SecurityManager], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:46:03,ERROR,[SecurityManager], Access forbidden: insufficient privileges
+2026-05-16,14:46:08,ERROR,[FileSystem], Permission denied reading file /var/data/config.json
+2026-05-16,14:46:16,ERROR,[SecurityManager], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:46:44,INFO,[AppServer], File permissions updated successfully
+2026-05-16,14:47:20,ERROR,[SecurityManager], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:47:36,ERROR,[FileSystem], Operation failed due to insufficient privileges
+2026-05-16,14:48:03,ERROR,[SecurityManager], Operation failed due to insufficient privileges
+2026-05-16,14:48:33,ERROR,[SecurityManager], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:49:31,ERROR,[FileSystem], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:50:24,ERROR,[FileSystem], Operation failed due to insufficient privileges
+2026-05-16,14:51:18,ERROR,[SecurityManager], Access forbidden: insufficient privileges
+2026-05-16,14:51:47,ERROR,[AppServer], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:52:03,ERROR,[AppServer], Operation failed due to insufficient privileges
+2026-05-16,14:53:03,ERROR,[SecurityManager], Access forbidden: insufficient privileges
+2026-05-16,14:54:01,ERROR,[SecurityManager], Access forbidden: insufficient privileges
+2026-05-16,14:54:31,INFO,[AppServer], Access granted to resource
+2026-05-16,14:55:26,ERROR,[AppServer], Access forbidden: insufficient privileges
+2026-05-16,14:55:45,ERROR,[FileSystem], Operation failed due to insufficient privileges
+2026-05-16,14:55:48,ERROR,[FileSystem], Permission denied reading file /var/data/config.json
+2026-05-16,14:56:25,ERROR,[FileSystem], Access forbidden: insufficient privileges
+2026-05-16,14:57:17,DEBUG,[FileSystem], User authenticated successfully
+2026-05-16,14:58:11,ERROR,[FileSystem], Access forbidden: insufficient privileges
+2026-05-16,14:58:16,ERROR,[SecurityManager], Operation failed due to insufficient privileges
+2026-05-16,14:58:22,ERROR,[AppServer], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:59:02,ERROR,[FileSystem], Permission denied reading file /data/users/profiles.db
+2026-05-16,14:59:12,ERROR,[FileSystem], Operation failed due to insufficient privileges
+2026-05-16,14:59:37,ERROR,[SecurityManager], Operation failed due to insufficient privileges
+2026-05-16,15:00:36,ERROR,[FileSystem], Permission denied reading file /var/data/config.json
+2026-05-16,15:01:08,ERROR,[FileSystem], Access forbidden: insufficient privileges
+2026-05-16,15:01:45,ERROR,[AppServer], Permission denied reading file /var/data/config.json
+2026-05-16,15:01:56,ERROR,[FileSystem], Access forbidden: insufficient privileges
+2026-05-16,15:02:49,ERROR,[AppServer], Permission denied reading file /var/data/config.json
+2026-05-16,15:03:15,ERROR,[FileSystem], Access forbidden: insufficient privileges
+2026-05-16,15:03:58,ERROR,[FileSystem], Operation failed due to insufficient privileges
+2026-05-16,15:04:38,ERROR,[AppServer], Access forbidden: insufficient privileges
+2026-05-16,15:05:24,ERROR,[SecurityManager], Operation failed due to insufficient privileges
+2026-05-16,15:06:15,ERROR,[FileSystem], Access forbidden: insufficient privileges
+2026-05-16,15:06:50,ERROR,[FileSystem], Access forbidden: insufficient privileges
+2026-05-16,15:07:08,ERROR,[AppServer], Access forbidden: insufficient privileges
+2026-05-16,15:07:50,ERROR,[FileSystem], Access forbidden: insufficient privileges
+2026-05-16,15:08:19,ERROR,[FileSystem], Operation failed due to insufficient privileges
+2026-05-16,15:09:05,DEBUG,[SecurityManager], User authenticated successfully
+2026-05-16,15:10:05,DEBUG,[FileSystem], File permissions updated successfully
+2026-05-16,15:10:39,ERROR,[AppServer], Access forbidden: insufficient privileges
+2026-05-16,15:10:59,ERROR,[FileSystem], Permission denied reading file /data/users/profiles.db
+2026-05-16,15:11:47,ERROR,[SecurityManager], Access forbidden: insufficient privileges
+2026-05-16,15:12:12,ERROR,[SecurityManager], Permission denied reading file /var/data/config.json
+2026-05-16,15:13:10,INFO,[FileSystem], User authenticated successfully
+2026-05-16,15:13:21,ERROR,[AppServer], Operation failed due to insufficient privileges
+2026-05-16,15:13:59,ERROR,[SecurityManager], Permission denied reading file /var/data/config.json
+2026-05-16,15:14:42,INFO,[SecurityManager], User authenticated successfully
+2026-05-16,15:15:16,ERROR,[FileSystem], Permission denied reading file /var/data/config.json
+2026-05-16,15:15:31,ERROR,[AppServer], Permission denied reading file /data/users/profiles.db
+2026-05-16,15:15:51,ERROR,[FileSystem], Access forbidden: insufficient privileges
+2026-05-16,15:16:26,ERROR,[AppServer], Access forbidden: insufficient privileges
+2026-05-16,15:17:08,ERROR,[AppServer], Operation failed due to insufficient privileges
+2026-05-16,15:17:32,ERROR,[SecurityManager], Permission denied reading file /data/users/profiles.db
+2026-05-16,15:17:44,DEBUG,[SecurityManager], Access granted to resource
+2026-05-16,15:18:16,INFO,[AppServer], File permissions updated successfully
+2026-05-16,15:18:53,INFO,[SecurityManager], Access granted to resource
+2026-05-16,15:19:10,ERROR,[FileSystem], Access forbidden: insufficient privileges
+2026-05-16,15:19:45,ERROR,[AppServer], Permission denied reading file /data/users/profiles.db

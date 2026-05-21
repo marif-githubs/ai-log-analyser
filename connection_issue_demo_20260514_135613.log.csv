@@ -1,0 +1,201 @@
+date,time,tag,component,description
+2026-05-13,23:56:20,ERROR,[NetworkService], Network connection interrupted
+2026-05-13,23:56:38,DEBUG,[NetworkService], Connection established successfully
+2026-05-13,23:57:12,ERROR,[AppServer], Network connection interrupted
+2026-05-13,23:57:28,ERROR,[AppServer], Database operation failed: could not connect to server
+2026-05-13,23:57:30,DEBUG,[DatabaseClient], Connection established successfully
+2026-05-13,23:58:20,ERROR,[NetworkService], Network connection interrupted
+2026-05-13,23:58:38,DEBUG,[AppServer], Network status: online
+2026-05-13,23:58:51,INFO,[NetworkService], Network status: online
+2026-05-13,23:59:17,ERROR,[AppServer], Failed to establish connection with server
+2026-05-13,23:59:28,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:00:19,ERROR,[DatabaseClient], Failed to establish connection with server
+2026-05-14,00:01:02,ERROR,[DatabaseClient], Network connection interrupted
+2026-05-14,00:01:13,ERROR,[DatabaseClient], Failed to establish connection with server
+2026-05-14,00:02:07,DEBUG,[AppServer], Network status: online
+2026-05-14,00:02:59,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:03:25,ERROR,[AppServer], Failed to execute query: connection reset
+2026-05-14,00:03:55,ERROR,[DatabaseClient], Database operation failed: could not connect to server
+2026-05-14,00:04:13,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,00:04:41,INFO,[NetworkService], Connection established successfully
+2026-05-14,00:04:48,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:05:05,ERROR,[AppServer], Failed to establish connection with server
+2026-05-14,00:05:13,ERROR,[NetworkService], Database operation failed: could not connect to server
+2026-05-14,00:05:46,ERROR,[DatabaseClient], Connection timeout to remote service
+2026-05-14,00:06:02,ERROR,[DatabaseClient], Connection timeout to remote service
+2026-05-14,00:06:09,ERROR,[AppServer], Database operation failed: could not connect to server
+2026-05-14,00:06:41,ERROR,[NetworkService], Network connection interrupted
+2026-05-14,00:07:17,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:07:30,ERROR,[DatabaseClient], Network connection interrupted
+2026-05-14,00:07:45,ERROR,[DatabaseClient], Failed to execute query: connection reset
+2026-05-14,00:07:54,ERROR,[AppServer], Connection timeout to remote service
+2026-05-14,00:08:08,ERROR,[NetworkService], Network connection interrupted
+2026-05-14,00:08:40,ERROR,[AppServer], Connection timeout to remote service
+2026-05-14,00:09:38,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:10:25,ERROR,[AppServer], Network connection interrupted
+2026-05-14,00:10:26,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,00:10:55,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,00:11:37,ERROR,[DatabaseClient], Database operation failed: could not connect to server
+2026-05-14,00:11:51,ERROR,[AppServer], Failed to establish connection with server
+2026-05-14,00:12:20,ERROR,[NetworkService], Database operation failed: could not connect to server
+2026-05-14,00:13:19,INFO,[DatabaseClient], Connection established successfully
+2026-05-14,00:13:50,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,00:14:11,ERROR,[AppServer], Network connection interrupted
+2026-05-14,00:14:12,DEBUG,[DatabaseClient], Connection established successfully
+2026-05-14,00:15:01,ERROR,[AppServer], Connection timeout to remote service
+2026-05-14,00:15:12,INFO,[AppServer], Query executed successfully
+2026-05-14,00:16:10,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:16:58,ERROR,[DatabaseClient], Connection timeout to remote service
+2026-05-14,00:17:33,DEBUG,[NetworkService], Connection established successfully
+2026-05-14,00:17:43,ERROR,[DatabaseClient], Failed to execute query: connection reset
+2026-05-14,00:17:54,ERROR,[AppServer], Failed to establish connection with server
+2026-05-14,00:17:56,ERROR,[AppServer], Connection timeout to remote service
+2026-05-14,00:18:35,ERROR,[AppServer], Database operation failed: could not connect to server
+2026-05-14,00:18:57,ERROR,[NetworkService], Network connection interrupted
+2026-05-14,00:19:22,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,00:19:53,ERROR,[DatabaseClient], Database operation failed: could not connect to server
+2026-05-14,00:20:03,ERROR,[NetworkService], Network connection interrupted
+2026-05-14,00:20:31,ERROR,[DatabaseClient], Failed to execute query: connection reset
+2026-05-14,00:20:52,ERROR,[DatabaseClient], Network connection interrupted
+2026-05-14,00:21:39,INFO,[DatabaseClient], Query executed successfully
+2026-05-14,00:22:02,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:22:22,ERROR,[AppServer], Database operation failed: could not connect to server
+2026-05-14,00:22:37,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:23:34,DEBUG,[DatabaseClient], Network status: online
+2026-05-14,00:24:30,ERROR,[AppServer], Database operation failed: could not connect to server
+2026-05-14,00:25:20,INFO,[NetworkService], Query executed successfully
+2026-05-14,00:26:00,ERROR,[DatabaseClient], Failed to establish connection with server
+2026-05-14,00:26:29,DEBUG,[DatabaseClient], Network status: online
+2026-05-14,00:26:42,ERROR,[AppServer], Network connection interrupted
+2026-05-14,00:27:26,ERROR,[DatabaseClient], Failed to establish connection with server
+2026-05-14,00:28:25,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,00:28:26,INFO,[AppServer], Network status: online
+2026-05-14,00:28:57,ERROR,[DatabaseClient], Connection timeout to remote service
+2026-05-14,00:29:29,ERROR,[AppServer], Failed to execute query: connection reset
+2026-05-14,00:29:38,ERROR,[DatabaseClient], Database operation failed: could not connect to server
+2026-05-14,00:29:58,ERROR,[DatabaseClient], Network connection interrupted
+2026-05-14,00:30:29,ERROR,[DatabaseClient], Network connection interrupted
+2026-05-14,00:31:09,ERROR,[DatabaseClient], Failed to establish connection with server
+2026-05-14,00:31:24,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:31:53,INFO,[NetworkService], Connection established successfully
+2026-05-14,00:32:03,ERROR,[NetworkService], Failed to establish connection with server
+2026-05-14,00:32:13,ERROR,[AppServer], Failed to establish connection with server
+2026-05-14,00:32:26,ERROR,[NetworkService], Database operation failed: could not connect to server
+2026-05-14,00:33:19,INFO,[DatabaseClient], Query executed successfully
+2026-05-14,00:33:30,ERROR,[DatabaseClient], Connection timeout to remote service
+2026-05-14,00:34:07,INFO,[DatabaseClient], Connection established successfully
+2026-05-14,00:34:32,ERROR,[AppServer], Failed to establish connection with server
+2026-05-14,00:34:40,DEBUG,[AppServer], Query executed successfully
+2026-05-14,00:35:39,ERROR,[NetworkService], Failed to establish connection with server
+2026-05-14,00:36:01,ERROR,[AppServer], Network connection interrupted
+2026-05-14,00:36:24,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,00:36:33,ERROR,[AppServer], Database operation failed: could not connect to server
+2026-05-14,00:36:41,ERROR,[AppServer], Failed to establish connection with server
+2026-05-14,00:37:09,ERROR,[DatabaseClient], Connection timeout to remote service
+2026-05-14,00:37:19,DEBUG,[NetworkService], Query executed successfully
+2026-05-14,00:37:28,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:38:13,DEBUG,[AppServer], Query executed successfully
+2026-05-14,00:38:39,ERROR,[AppServer], Failed to execute query: connection reset
+2026-05-14,00:39:14,ERROR,[AppServer], Database operation failed: could not connect to server
+2026-05-14,00:39:31,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:40:30,ERROR,[AppServer], Connection timeout to remote service
+2026-05-14,00:40:31,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,00:40:53,ERROR,[AppServer], Network connection interrupted
+2026-05-14,00:41:25,ERROR,[NetworkService], Database operation failed: could not connect to server
+2026-05-14,00:42:18,ERROR,[AppServer], Network connection interrupted
+2026-05-14,00:42:41,ERROR,[AppServer], Connection timeout to remote service
+2026-05-14,00:43:32,DEBUG,[NetworkService], Query executed successfully
+2026-05-14,00:44:08,ERROR,[AppServer], Failed to execute query: connection reset
+2026-05-14,00:44:16,ERROR,[AppServer], Failed to establish connection with server
+2026-05-14,00:44:41,ERROR,[DatabaseClient], Connection timeout to remote service
+2026-05-14,00:44:46,ERROR,[NetworkService], Database operation failed: could not connect to server
+2026-05-14,00:45:04,ERROR,[NetworkService], Network connection interrupted
+2026-05-14,00:45:15,ERROR,[AppServer], Failed to establish connection with server
+2026-05-14,00:45:45,ERROR,[DatabaseClient], Database operation failed: could not connect to server
+2026-05-14,00:46:33,ERROR,[AppServer], Network connection interrupted
+2026-05-14,00:47:06,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:48:04,INFO,[NetworkService], Query executed successfully
+2026-05-14,00:48:25,ERROR,[AppServer], Database operation failed: could not connect to server
+2026-05-14,00:48:30,ERROR,[DatabaseClient], Failed to establish connection with server
+2026-05-14,00:49:17,INFO,[AppServer], Connection established successfully
+2026-05-14,00:49:50,ERROR,[DatabaseClient], Failed to establish connection with server
+2026-05-14,00:50:08,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:50:49,ERROR,[AppServer], Failed to execute query: connection reset
+2026-05-14,00:51:10,ERROR,[AppServer], Database operation failed: could not connect to server
+2026-05-14,00:51:40,INFO,[DatabaseClient], Network status: online
+2026-05-14,00:52:08,ERROR,[AppServer], Network connection interrupted
+2026-05-14,00:52:18,ERROR,[DatabaseClient], Connection timeout to remote service
+2026-05-14,00:52:43,INFO,[DatabaseClient], Network status: online
+2026-05-14,00:53:42,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,00:53:47,ERROR,[AppServer], Failed to execute query: connection reset
+2026-05-14,00:54:11,ERROR,[DatabaseClient], Failed to establish connection with server
+2026-05-14,00:54:21,ERROR,[NetworkService], Failed to establish connection with server
+2026-05-14,00:54:50,ERROR,[DatabaseClient], Database operation failed: could not connect to server
+2026-05-14,00:55:03,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:55:05,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,00:55:15,ERROR,[AppServer], Network connection interrupted
+2026-05-14,00:55:30,ERROR,[DatabaseClient], Connection timeout to remote service
+2026-05-14,00:55:56,ERROR,[AppServer], Failed to establish connection with server
+2026-05-14,00:56:23,ERROR,[DatabaseClient], Failed to execute query: connection reset
+2026-05-14,00:56:42,INFO,[DatabaseClient], Query executed successfully
+2026-05-14,00:56:59,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,00:57:22,ERROR,[NetworkService], Failed to establish connection with server
+2026-05-14,00:57:25,ERROR,[AppServer], Network connection interrupted
+2026-05-14,00:57:50,ERROR,[DatabaseClient], Connection timeout to remote service
+2026-05-14,00:58:20,DEBUG,[AppServer], Query executed successfully
+2026-05-14,00:59:03,ERROR,[NetworkService], Network connection interrupted
+2026-05-14,00:59:34,ERROR,[AppServer], Connection timeout to remote service
+2026-05-14,01:00:31,INFO,[AppServer], Network status: online
+2026-05-14,01:01:04,ERROR,[NetworkService], Failed to establish connection with server
+2026-05-14,01:01:45,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,01:02:02,ERROR,[DatabaseClient], Failed to establish connection with server
+2026-05-14,01:02:23,ERROR,[DatabaseClient], Failed to establish connection with server
+2026-05-14,01:03:02,ERROR,[AppServer], Database operation failed: could not connect to server
+2026-05-14,01:03:28,ERROR,[DatabaseClient], Connection timeout to remote service
+2026-05-14,01:04:01,ERROR,[NetworkService], Failed to establish connection with server
+2026-05-14,01:04:25,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,01:04:28,ERROR,[DatabaseClient], Database operation failed: could not connect to server
+2026-05-14,01:04:31,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,01:04:36,ERROR,[DatabaseClient], Failed to execute query: connection reset
+2026-05-14,01:04:56,ERROR,[AppServer], Database operation failed: could not connect to server
+2026-05-14,01:05:29,ERROR,[DatabaseClient], Database operation failed: could not connect to server
+2026-05-14,01:05:40,ERROR,[AppServer], Connection timeout to remote service
+2026-05-14,01:05:41,DEBUG,[NetworkService], Connection established successfully
+2026-05-14,01:05:48,ERROR,[AppServer], Network connection interrupted
+2026-05-14,01:06:48,ERROR,[AppServer], Database operation failed: could not connect to server
+2026-05-14,01:07:01,ERROR,[AppServer], Failed to establish connection with server
+2026-05-14,01:07:27,ERROR,[AppServer], Connection timeout to remote service
+2026-05-14,01:07:48,ERROR,[DatabaseClient], Failed to establish connection with server
+2026-05-14,01:07:54,ERROR,[DatabaseClient], Network connection interrupted
+2026-05-14,01:08:46,ERROR,[AppServer], Network connection interrupted
+2026-05-14,01:09:18,ERROR,[AppServer], Connection timeout to remote service
+2026-05-14,01:09:24,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,01:09:55,INFO,[AppServer], Network status: online
+2026-05-14,01:10:26,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,01:10:31,ERROR,[NetworkService], Failed to establish connection with server
+2026-05-14,01:10:47,ERROR,[DatabaseClient], Database operation failed: could not connect to server
+2026-05-14,01:11:43,INFO,[AppServer], Query executed successfully
+2026-05-14,01:12:15,ERROR,[DatabaseClient], Failed to establish connection with server
+2026-05-14,01:13:03,ERROR,[AppServer], Network connection interrupted
+2026-05-14,01:13:44,ERROR,[NetworkService], Failed to execute query: connection reset
+2026-05-14,01:14:25,ERROR,[NetworkService], Failed to establish connection with server
+2026-05-14,01:14:48,ERROR,[NetworkService], Database operation failed: could not connect to server
+2026-05-14,01:15:12,ERROR,[DatabaseClient], Database operation failed: could not connect to server
+2026-05-14,01:15:47,ERROR,[AppServer], Network connection interrupted
+2026-05-14,01:16:40,ERROR,[AppServer], Network connection interrupted
+2026-05-14,01:17:34,ERROR,[NetworkService], Connection timeout to remote service
+2026-05-14,01:18:03,ERROR,[DatabaseClient], Failed to establish connection with server
+2026-05-14,01:18:08,ERROR,[AppServer], Network connection interrupted
+2026-05-14,01:18:16,ERROR,[AppServer], Connection timeout to remote service
+2026-05-14,01:19:02,ERROR,[NetworkService], Failed to establish connection with server
+2026-05-14,01:19:53,ERROR,[AppServer], Network connection interrupted
+2026-05-14,01:20:08,ERROR,[AppServer], Connection timeout to remote service
+2026-05-14,01:20:52,ERROR,[NetworkService], Database operation failed: could not connect to server
+2026-05-14,01:21:51,DEBUG,[AppServer], Query executed successfully
+2026-05-14,01:22:05,INFO,[NetworkService], Connection established successfully
+2026-05-14,01:22:31,ERROR,[AppServer], Failed to establish connection with server
+2026-05-14,01:22:42,ERROR,[DatabaseClient], Network connection interrupted
+2026-05-14,01:22:56,ERROR,[NetworkService], Network connection interrupted
+2026-05-14,01:23:24,ERROR,[DatabaseClient], Failed to execute query: connection reset
+2026-05-14,01:23:30,ERROR,[AppServer], Database operation failed: could not connect to server
+2026-05-14,01:24:05,ERROR,[NetworkService], Connection timeout to remote service
